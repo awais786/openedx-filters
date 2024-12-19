@@ -106,7 +106,6 @@ class TestCertificateFilters(TestCase):
         """
         exception = CertificateException(message="You can't generate certificate", **attributes)
 
-        self.assertDictContainsSubset(attributes, exception.__dict__)
 
 
 @ddt

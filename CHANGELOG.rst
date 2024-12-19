@@ -16,6 +16,13 @@ Unreleased
 * Configuration for automatic filters docs generation.
 
 
+[1.14.0] - 2025-02-01
+---------------------
+
+Added
+~~~~~
+* CourseTemplateRequested filter added which can be used to get custom course templates.
+
 [1.12.0] - 2024-12-12
 ---------------------
 
